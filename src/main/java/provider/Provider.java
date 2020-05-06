@@ -9,7 +9,7 @@ import provider.impl.HelloServiceImpl;
 import register.RemoteRegister;
 
 /**
- * @author tanghf
+ * @author whz
  * @className provider.Provider.java
  * @createTime 2019/8/20 09:10
  */
